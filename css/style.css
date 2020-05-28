@@ -785,7 +785,7 @@ main {
 .no-results {
     width: 360px;
     height: 288px;
-    background-image: url(/img/no_results.jpg);
+    background-image: url(/img/no-results.jpg);
 }
 .preloader {
     display: none;

@@ -21,6 +21,7 @@ const leftMenu = document.querySelector('.left-menu'),
 
     const noResults = document.createElement('div');
     noResults.className = 'no-results';
+    noResults.innerHTML = '<img src = "img/no-results.jpg"><img>'
     const loading = document.createElement('div');
     loading.className = 'loading';
 
